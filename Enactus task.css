@@ -1,0 +1,14 @@
+#p3{
+    color: slateblue ;
+   font-size: 10px;
+}
+
+#p1:hover{
+    color: slateblue;
+}
+#p2:hover{
+    color: brown;
+}
+#p3:hover{
+    color: grey;
+}
